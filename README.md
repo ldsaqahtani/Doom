@@ -33,6 +33,11 @@ What it can do for you
 - Faster baseline.
 - Pre-configured modules.
 
+
+
+
+resource: https://docs.doomemacs.org/v21.12/#/users/intro
+
 ##### Why _not_ Doom?
 
 - You believe Doom is a barrier to learning Emacs underneath.
