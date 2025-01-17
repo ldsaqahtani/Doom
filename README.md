@@ -34,11 +34,12 @@ What it can do for you
 - Pre-configured modules.
 
 
-
-
-resource: https://docs.doomemacs.org/v21.12/#/users/intro
-
 ##### Why _not_ Doom?
 
 - You believe Doom is a barrier to learning Emacs underneath.
 - You have an Emacs config that you’re happy with and don’t have the time/energy to migrate.
+
+
+
+
+resource: https://docs.doomemacs.org/v21.12/#/users/intro
