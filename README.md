@@ -47,7 +47,7 @@ What it can do for you
 - **It’s a gentler introduction to Emacs.** Emacs is hard™. Doom files down its rougher edges.
 - **Emacs is slow.** Doom can’t promise to resolve _all_ Emacs’ performance issues, but it certainly helps, and it will always be a priority.
 - **It can be a barebones framework.** Disable all its modules and you get many of Doom’s perks without its opinions; why go vanilla when you can have vanilla + better defaults + a stronger elisp toolchain from the get go?
-- **Why not Doom?**
+**Why not Doom?**
 
 - You believe Doom is a barrier to learning Emacs underneath.
 - You have an Emacs config that you’re happy with and don’t have the time/energy to migrate.
