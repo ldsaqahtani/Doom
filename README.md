@@ -50,13 +50,12 @@ What it can do for you
 
 What it can do for you
 
-Why not Doom?Link to this heading
+-Better defaults.
+-Faster baseline.
+-Pre-configured modules.
 
-    You believe Doom is a barrier to learning Emacs underneath.
-    You have an Emacs config that you’re happy with and don’t have the time/energy to migrate.
+Why not Doom?
 
-
-
-- Better defaults.
-- Faster baseline.
+- You believe Doom is a barrier to learning Emacs underneath.
+- You have an Emacs config that you’re happy with and don’t have the time/energy to migrate.
 - Pre-configured modules.
