@@ -43,3 +43,6 @@ What it can do for you
 
 
 resource: https://docs.doomemacs.org/v21.12/#/users/intro
+
+If you are interested in learning Doom Emacs 
+check this video: https://www.youtube.com/watch?v=VcgjTEa0kU4&list=PLdLYBLkBDcyheUwZz73HEXlOD3iZEX_DC&index=8
