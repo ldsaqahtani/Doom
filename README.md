@@ -8,12 +8,6 @@
 
 It can be a foundation for your own config (with as many – or as few – batteries included as you like), a reference for enthusiasts building their own, or anywhere in between.
 
-**Why was Doom written?** Picture this. The year is 2014. A spry, shell-dwelling, and melodramatic hellspawn from the frigid [North](https://www.google.com/maps/place/Canada/@54.723477,-113.7170394,4z/data=!4m5!3m4!1s0x4b0d03d337cc6ad9:0x9968b72aa2438fa5!8m2!3d56.130366!4d-106.346771) lays his tired eye on his old friend of 12 years – Vim – and for the last time. He is exhausted. He would not wish VimScript on even the Doom slayer himself, but like any good agent of evil he wants _more power_; he wants a better Vim than Vim.
-
-So he visits every contemporary editor you can name, but their Vim plugins disappoint him to the point of desperation.
-
-Henrik Lissner, a Canadian/Danish devops engineer and gamedev hobbyist. After 12 years as an avid Vim user (and a brief stint with every contemporary editor you can name), he discovered Emacs, then [Evil](https://github.com/emacs-evil/evil "Opens the homepage for the \"), and was convinced he’d found a better Vim than Vim. Though, the Vim plugins of said contemporary text editors had likely disappointed him to the point of desperation, and he’d already begun wondering where his life had gone so, so wrong.
-
 Still, in a perilous effort to learn Emacs and Emacs Lisp, he tinkered away. The year is 2014, and that config would later become Doom Emacs.
 - **Its package manager.** Stop micromanaging your plugins and fighting Emacs’ rolling-release package manager. Doom’s is declarative, non-rolling release, and (nominally) reproducible; which is unique on the Emacs starter-kit scene. Don’t let upstream issues surprise you. Roll back or re-pin packages when you don’t have the time to deal with issues. Wield precise control over your packages.
     
